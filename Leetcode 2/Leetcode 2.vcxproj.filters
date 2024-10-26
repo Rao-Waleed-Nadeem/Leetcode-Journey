@@ -129,5 +129,8 @@
     <ClCompile Include="2816. Double a Number Represented as a Linked List.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="2181. Merge Nodes in Between Zeros.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
