@@ -137,6 +137,7 @@
     <ClCompile Include="109. Convert Sorted List to Binary Search Tree.cpp" />
     <ClCompile Include="11. Container With Most Water.cpp" />
     <ClCompile Include="1305. All Elements in Two Binary Search Trees.cpp" />
+    <ClCompile Include="1382. Balance a Binary Search Tree.cpp" />
     <ClCompile Include="152. Maximum Product Subarray.cpp" />
     <ClCompile Include="153. Find Minimum in Rotated Sorted Array.cpp" />
     <ClCompile Include="173. Binary Search Tree Iterator.cpp" />
