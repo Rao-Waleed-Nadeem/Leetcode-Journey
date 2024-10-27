@@ -150,5 +150,8 @@
     <ClCompile Include="705. Design HashSet.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="706. Design HashMap.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
