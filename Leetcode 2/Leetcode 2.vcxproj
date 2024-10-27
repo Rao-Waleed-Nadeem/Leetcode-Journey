@@ -140,6 +140,7 @@
     <ClCompile Include="1382. Balance a Binary Search Tree.cpp" />
     <ClCompile Include="152. Maximum Product Subarray.cpp" />
     <ClCompile Include="153. Find Minimum in Rotated Sorted Array.cpp" />
+    <ClCompile Include="1721. Swapping Nodes in a Linked List.cpp" />
     <ClCompile Include="173. Binary Search Tree Iterator.cpp" />
     <ClCompile Include="2095. Delete the Middle Node of a Linked List.cpp" />
     <ClCompile Include="2130. Maximum Twin Sum of a Linked List.cpp" />
