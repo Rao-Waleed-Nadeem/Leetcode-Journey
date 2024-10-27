@@ -169,6 +169,7 @@
     <ClCompile Include="705. Design HashSet.cpp" />
     <ClCompile Include="706. Design HashMap.cpp" />
     <ClCompile Include="707. Design Linked List.cpp" />
+    <ClCompile Include="75. Sort Colors.cpp" />
     <ClCompile Include="783. Minimum Distance Between BST Nodes.cpp" />
     <ClCompile Include="897. Increasing Order Search Tree.cpp" />
     <ClCompile Include="938. Range Sum of BST.cpp" />
