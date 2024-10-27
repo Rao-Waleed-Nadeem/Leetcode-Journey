@@ -141,5 +141,8 @@
     <ClCompile Include="1721. Swapping Nodes in a Linked List.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="1670. Design Front Middle Back Queue.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
