@@ -153,5 +153,8 @@
     <ClCompile Include="706. Design HashMap.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="707. Design Linked List.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
