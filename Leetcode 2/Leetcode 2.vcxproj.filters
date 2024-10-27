@@ -135,5 +135,8 @@
     <ClCompile Include="2130. Maximum Twin Sum of a Linked List.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="2095. Delete the Middle Node of a Linked List.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
