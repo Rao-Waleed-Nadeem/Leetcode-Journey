@@ -147,5 +147,8 @@
     <ClCompile Include="1669. Merge In Between Linked Lists.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="705. Design HashSet.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
